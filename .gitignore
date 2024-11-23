@@ -56,7 +56,7 @@ ExportedObj/
 sysinfo.txt
 
 # Builds
-*.apk
+# *.apk
 *.aab
 *.unitypackage
 *.app
@@ -71,3 +71,4 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 *.vscode*
+bakery_times.log
